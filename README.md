@@ -10,9 +10,11 @@
 
 - [Pre-training tacotron2 models](https://github.com/CjangCjengh/TTSModels)
 
-- [Latest changes can be viewed in this repository](https://github.com/StarxSky/tacotron2-JP)
+- [Latest JP changes can be viewed in this repository](https://github.com/StarxSky/tacotron2-JP)
 
 - [Opencpop dataset](https://wenet.org.cn/opencpop/)
+
+- [Code-Pre-training](https://pan.baidu.com/s/13cl40S3YN4g9wMjd6vfpTA?pwd=hm7g)
 
 ## How to use
 
