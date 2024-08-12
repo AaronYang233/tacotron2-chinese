@@ -105,7 +105,7 @@ sudo apt-get install ffmpeg
 
 ## Method 2
 
-[FFmpeg official website]（ https://ffmpeg.org/ ）Find the corresponding system version to download.
+[FFmpeg official website](https://ffmpeg.org/) Find the corresponding system version to download.
 
 Extract the compressed file to any directory.
 
